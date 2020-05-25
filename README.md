@@ -4,8 +4,8 @@
 Flutter implementation of floating and scrolling landing page design
 
 ## Design
-![Design](../master/readme assets/go-egypt.gif)
+![Design](../master/readme%20assets/go-egypt.gif)
 
 ## Implementation
-![Implementation](../master/readme assets/go-egypt-implement-1.gif)
+![Implementation](../master/readme%20assets/go-egypt-implement-1.gif)
 
